@@ -52,4 +52,3 @@ Company Email  : john.smith@dev.xyzcompany.com
 Password       : Ab1$kLm2Pq
 Mailbox Size   : 500MB
 Alternate Email: Not Set
-
